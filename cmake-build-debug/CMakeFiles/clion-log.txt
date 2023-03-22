@@ -1,0 +1,5 @@
+"C:\study\CLion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/study/CLion/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\study\cpp\Sokoban -B C:\study\cpp\Sokoban\cmake-build-debug
+-- Found SFML .. in C:/SFML/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/study/cpp/Sokoban/cmake-build-debug
